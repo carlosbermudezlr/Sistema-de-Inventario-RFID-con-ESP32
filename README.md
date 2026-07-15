@@ -61,7 +61,7 @@ Sistema embebido para la gestión de inventario en laboratorios educativos. Util
 
 - **Tecla A, B, C**: seleccionar opciones de menú.
 - **Tecla D**: salir al menú anterior / cancelar.
-- **Tecla * **: cancelar operación actual (escaneo, ingreso de datos).
+- **Tecla ***: cancelar operación actual (escaneo, ingreso de datos).
 - **Tecla #**: confirmar / aceptar.
 - **Timeout de 20 segundos**: si no se pulsa ninguna tecla, el sistema vuelve a la pantalla de inicio.
 
@@ -96,13 +96,13 @@ La app se comunica mediante comandos de texto. Puedes probarlos con cualquier te
 | `SET_TIME AAAA MM DD HH MM SS` | Ajustar RTC |
 | `SALIR` | Cerrar sesión |
 
-## 🧠 Decisiones de diseño destacadas
+## Decisiones de diseño destacadas
 
 - **Normalización de UID**: evita errores por diferencias de formato entre lectores RFID.
 - **Reescritura atómica de archivos**: protección contra corrupción en cortes eléctricos.
 - **Timeout en todos los menús**: impide que el sistema quede bloqueado.
 - **Reinicio automático cada 3 días**: mantiene la memoria limpia de fragmentación.
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto se comparte con fines educativos. Siéntete libre de usarlo, modificarlo y adaptarlo a tus necesidades.
