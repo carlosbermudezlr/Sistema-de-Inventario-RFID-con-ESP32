@@ -1,6 +1,6 @@
 # Sistema de Inventario con ESP32 y RFID
 
-Sistema embebido para la gestión de inventario en laboratorios educativos. Utiliza un ESP32, lectores RFID RC522, pantalla LCD 20×4, teclado matricial, reloj RTC DS1302, almacenamiento en tarjeta SD y comunicación Bluetooth con una app Android.
+Sistema embebido para la gestión de inventario en laboratorios educativos. Utiliza un ESP32, lector RFID RC522, pantalla LCD 20×4, teclado matricial 4x4, reloj RTC DS1302, almacenamiento en tarjeta SD y comunicación Bluetooth con una app Android.
 
 ## Características
 
