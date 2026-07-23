@@ -18,7 +18,7 @@ Sistema embebido para la gestión de inventario en laboratorios educativos. Util
 | Componente | Descripción |
 |------------|-------------|
 | ESP32 DevKit V1 | Microcontrolador principal |
-| RFID RC522 (×2) | Lector de tarjetas para usuarios y componentes |
+| RFID RC522 | Lector de tarjetas para usuarios y componentes |
 | Pantalla LCD 20×4 | Interfaz visual |
 | Teclado matricial 4×4 | Navegación y entrada de datos |
 | RTC DS1302 | Reloj en tiempo real con batería de respaldo |
